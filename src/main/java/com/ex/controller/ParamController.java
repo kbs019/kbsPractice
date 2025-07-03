@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class ParamController {
     
-    @GetMapping("ex01")
-    public String ex01(){
-        return "ex01";
+    @GetMapping("ex012")
+    public String ex012(){
+        return "ex012";
     }
 }
